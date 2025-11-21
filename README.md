@@ -51,7 +51,7 @@ We conducted the experiment using the following publicly available dataset: IRDS
 
 2. UI-PRMD: [download link](https://opendatalab.com/OpenDataLab/UI-PRMD/tree/main). (Its official download link `https://www.webpages.uidaho.edu/ui-prmd/` is no longer available.)
 
-3. REHAB24-6 [download link](https://zenodo.org/records/13305826).
+3. REHAB24-6: [download link](https://zenodo.org/records/13305826).
 
 After downloading these datasets, organize them according to the following structure:
 
